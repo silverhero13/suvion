@@ -1,21 +1,13 @@
 import React from 'react'
 import './App.scss'
 import Routes from './routes'
+import { Provider } from 'react-redux'
+import { store } from './ducks'
 
-const App: React.FC = () => {
-  return (
-    // <div className="uk-section">
-    //   <div className="uk-container">
-    //     <div>
-    //       <div className="uk-card uk-card-default uk-card-body">
-    //         <h3 className="uk-card-title">Default</h3>
-    //         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-    //       </div>
-    //     </div>
-    //   </div>
-    // </div>
+const App: React.FC = () => (
+  <Provider store={store}>
     <Routes />
-  )
-}
+  </Provider>
+)
 
 export default App
