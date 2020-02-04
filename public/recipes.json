@@ -1,0 +1,119 @@
+[
+  {
+    "id": "8c871d97-2be0-4100-91fe-63f3e2de4465",
+    "name": "Addictive Sesame Chicken",
+    "price": 220,
+    "discount": 0,
+    "cuisine": "Chinese",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "2f775328-c4fd-4f1d-989a-91661d279335",
+    "name": "Dal Makhani",
+    "price": 115,
+    "discount": 0.5,
+    "cuisine": "Indian",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "634526dc-5e7f-4400-b97f-1f27a0727525",
+    "name": "Keema Aloo",
+    "price": 100,
+    "discount": 0.1,
+    "cuisine": "",
+    "description": "Indian",
+    "isUnavailable": false
+  },
+  {
+    "id": "d58179b4-4a6d-4f6d-a188-e2adffe457ee",
+    "name": "Carnitas",
+    "price": 200,
+    "discount": 0,
+    "cuisine": "Mexican",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "ae66a438-5850-476e-a5cb-2d1982244bd6",
+    "name": "Szechwan Shrimp",
+    "price": 250,
+    "discount": 0,
+    "cuisine": "Chinese",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "68b17c6b-c839-45f0-a965-dba58504371c",
+    "name": "Brasato al Barolo",
+    "price": 175,
+    "discount": 0.2,
+    "cuisine": "Italian",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "1c3d8cd8-f684-44ee-9e26-14a8b4c97cc1",
+    "name": "Chicken Flautas",
+    "price": 130,
+    "discount": 0.3,
+    "cuisine": "Mexican",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "e490c4d8-fd9b-4faa-a384-e8c0719be97b",
+    "name": "Guacamole",
+    "price": 50,
+    "discount": 0,
+    "cuisine": "Mexican",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "a7dac1c6-6854-449f-a4aa-47c317fb6da5",
+    "name": "Red Lentil Curry",
+    "price": 70,
+    "discount": 0,
+    "cuisine": "Indian",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "66abd364-a5e9-4a37-8e37-26528e2869d9",
+    "name": "Risotto with Truffle and Parmesan",
+    "price": 499,
+    "discount": 0.5,
+    "cuisine": "Italian",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "361340ba-5fa5-4b12-9615-e695ab61428b",
+    "name": "Pork Dumplings",
+    "price": 30,
+    "discount": 0,
+    "cuisine": "Chinese",
+    "description": "",
+    "isUnavailable": true
+  },
+  {
+    "id": "413b5eda-1338-4140-a90a-2132653110cb",
+    "name": "Chicken Enchiladas",
+    "price": 75,
+    "discount": 0,
+    "cuisine": "Mexican",
+    "description": "",
+    "isUnavailable": false
+  },
+  {
+    "id": "413b5eda-1338-4140-a90a-2132653110cb",
+    "name": "Lemony Pork Piccata",
+    "price": 120,
+    "discount": 0.25,
+    "cuisine": "Italian",
+    "description": "",
+    "isUnavailable": true
+  }
+]

@@ -1,20 +1,20 @@
-import { Product } from '../types/product'
+import { Recipe } from '../types/recipe'
 
 export interface AppState {
-  products: Product[]
+  products: Recipe[]
 }
 
 export enum ActionType {
-  PRODUCTS_ADD,
-  PRODUCTS_REMOVE,
+  RECIPES_ADD,
+  RECIPES_REMOVE,
 }
 
 export type Action =
   | {
-      type: ActionType.PRODUCTS_ADD
-      product: Product
+      type: ActionType.RECIPES_ADD
+      product: Recipe
     }
   | {
-      type: ActionType.PRODUCTS_REMOVE
+      type: ActionType.RECIPES_REMOVE
       productId: string
     }
