@@ -1,6 +1,7 @@
 import React from 'react'
-import { Recipe } from '../../types/recipe'
-import recipesApi from '../../api/recipes'
+
+import recipesApi from 'api/recipes'
+import { Recipe } from 'types/recipe'
 
 const Home: React.FC = () => {
   const [recipes, setRecipes] = React.useState<Recipe[]>([])

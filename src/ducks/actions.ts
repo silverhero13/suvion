@@ -1,4 +1,5 @@
-import { Recipe } from '../types/recipe'
+import { Recipe } from 'types/recipe'
+
 import { Action, ActionType } from './types'
 
 export const addProduct = (product: Recipe): Action => ({

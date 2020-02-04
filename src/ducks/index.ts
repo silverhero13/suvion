@@ -1,4 +1,5 @@
 import { createStore } from 'redux'
+
 import { Action, AppState } from './types'
 
 export const initialState: AppState = {

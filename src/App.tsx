@@ -1,8 +1,10 @@
 import React from 'react'
-import './App.scss'
-import Routes from './routes'
 import { Provider } from 'react-redux'
-import { store } from './ducks'
+
+import { store } from 'ducks'
+import Routes from 'routes'
+
+import 'App.scss'
 
 const App: React.FC = () => (
   <Provider store={store}>
