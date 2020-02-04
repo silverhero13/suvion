@@ -1,7 +1,7 @@
 import { Recipe } from '../types/recipe'
 
 export interface AppState {
-  products: Recipe[]
+  recipes: Recipe[]
 }
 
 export enum ActionType {
