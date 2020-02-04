@@ -5,7 +5,7 @@
     "price": 220,
     "discount": 0,
     "cuisine": "Chinese",
-    "description": "",
+    "description": "Boneless chicken breast, soy sauce, sesame oil, chicken",
     "isUnavailable": false
   },
   {
@@ -14,7 +14,7 @@
     "price": 115,
     "discount": 0.5,
     "cuisine": "Indian",
-    "description": "",
+    "description": "Red kidney beans, urad dal, cream, garam masala, chili",
     "isUnavailable": false
   },
   {
@@ -22,8 +22,8 @@
     "name": "Keema Aloo",
     "price": 100,
     "discount": 0.1,
-    "cuisine": "",
-    "description": "Indian",
+    "cuisine": "Indian",
+    "description": "Lean ground beef, potatoes, frozen green peas, garam",
     "isUnavailable": false
   },
   {
@@ -32,7 +32,7 @@
     "price": 200,
     "discount": 0,
     "cuisine": "Mexican",
-    "description": "",
+    "description": "Simmering pork in oil",
     "isUnavailable": false
   },
   {
@@ -41,7 +41,7 @@
     "price": 250,
     "discount": 0,
     "cuisine": "Chinese",
-    "description": "",
+    "description": "Soy sauce, honey, red pepper, cooked shrimp, ketchup",
     "isUnavailable": false
   },
   {
@@ -50,7 +50,7 @@
     "price": 175,
     "discount": 0.2,
     "cuisine": "Italian",
-    "description": "",
+    "description": "Red wine, brisket flat, dry marsala wine, juniper berries",
     "isUnavailable": false
   },
   {
@@ -59,7 +59,7 @@
     "price": 130,
     "discount": 0.3,
     "cuisine": "Mexican",
-    "description": "",
+    "description": "Shredded chicken, flour tortillas, black olives, lemon juice, all spice",
     "isUnavailable": false
   },
   {
@@ -68,7 +68,7 @@
     "price": 50,
     "discount": 0,
     "cuisine": "Mexican",
-    "description": "",
+    "description": "Lime, tomatoes, mashed, cayenne pepper",
     "isUnavailable": false
   },
   {
@@ -77,7 +77,7 @@
     "price": 70,
     "discount": 0,
     "cuisine": "Indian",
-    "description": "",
+    "description": "Curry paste, red lentils, curry powder, chili powder, tomato",
     "isUnavailable": false
   },
   {
@@ -86,7 +86,7 @@
     "price": 499,
     "discount": 0.5,
     "cuisine": "Italian",
-    "description": "",
+    "description": "White truffle oil, white wine, arborio rice, chicken broth",
     "isUnavailable": false
   },
   {
@@ -95,7 +95,7 @@
     "price": 30,
     "discount": 0,
     "cuisine": "Chinese",
-    "description": "",
+    "description": "Ground pork, wonton wrappers, soy sauce, chinese cabbage",
     "isUnavailable": true
   },
   {
@@ -104,16 +104,16 @@
     "price": 75,
     "discount": 0,
     "cuisine": "Mexican",
-    "description": "",
+    "description": "Boneless chicken breast, sour cream, enchilada sauce",
     "isUnavailable": false
   },
   {
-    "id": "413b5eda-1338-4140-a90a-2132653110cb",
+    "id": "474add2c-c61f-44c6-96e1-7708d6e0c981",
     "name": "Lemony Pork Piccata",
     "price": 120,
     "discount": 0.25,
     "cuisine": "Italian",
-    "description": "",
+    "description": "Pork chops, white wine, capers, lemon juice, chicken stock",
     "isUnavailable": true
   }
 ]
